@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Franco-Diaz-Licham.
 - 👀 I’m interested in C# Development, SQL, JS, HTML, CSS and Python.
-- 🌱 I’m currently learning Blazor Web Development.
-- 👷 I'm currently Employed at Norwest Christian College as an ICT Officer.
+- 🌱 I’m currently learning Angular Web Development.
+- 👷 I'm currently Employed at Norwest Christian College as Software Developer.
 
 <!---
 Franco-Diaz-Licham/Franco-Diaz-Licham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
