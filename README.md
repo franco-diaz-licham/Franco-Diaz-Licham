@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Franco-Diaz-Licham.
+- 👋 Hi, My name is Franco Diaz Licham.
 - 👀 I’m interested in C# Development, SQL, JS, HTML, CSS and Python.
 - 🌱 I’m currently learning .NET MVC.
 - 👷 I'm currently Employed Full Time at Norwest Christian College as Software Developer. https://www.norwest.nsw.edu.au/
