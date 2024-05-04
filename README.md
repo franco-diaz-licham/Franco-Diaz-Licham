@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Franco-Diaz-Licham.
 - 👀 I’m interested in C# Development, SQL, JS, HTML, CSS and Python.
-- 🌱 I’m currently growing in .Net learning.
+- 🌱 I’m currently growing in .NET learning.
 - 👷 I'm currently Employed at Norwest Christian College as Software Developer.
 
 <!---
