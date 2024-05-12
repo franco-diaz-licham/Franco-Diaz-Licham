@@ -2,7 +2,7 @@
 - 👀 I’m interested in C#, SQL, JS/TS, HTML/CSS and Python.
 - 🌱 I’m currently learning .NET MVC and WPF.
 - 👷 I'm currently employed full-time at Norwest Christian College as a software developer. https://www.norwest.nsw.edu.au/
-- 👷 I'm currently employed casually at BBC Transport as a freelance software developer. https://bcctransport.com/ 
+- 👷 I'm currently employed casually at BCC Transport as a freelance software developer. https://bcctransport.com/ 
   
 <!---
 Franco-Diaz-Licham/Franco-Diaz-Licham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
