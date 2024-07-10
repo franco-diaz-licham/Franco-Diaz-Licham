@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Franco Diaz Licham.
+- 👋 Hi, My name is Franco and welcome to my Github profile!.
 - 👀 I’m interested in C#, SQL, JS/TS, HTML/CSS and Python.
 - 🌱 I’m currently Studying Software Engineering part-time at Deakin University.
 - 👷 I'm currently employed full-time at Norwest Christian College as a software developer. https://www.norwest.nsw.edu.au/
