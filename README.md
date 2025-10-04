@@ -1,7 +1,15 @@
-👋 Hi, I’m Franco — a Full-Stack Software Developer<br/>
-🛠️ Skilled in .NET Core, React, Blazor, SQL Server, Azure DevOps CI/CD, Azure Cloud <br/>
-👷 Full-time developer at <a href="https://www.norwest.nsw.edu.au" target="_blank" rel="noopener noreferrer">Norwest Christian College</a><br/>
-💼 Portfolio at <a href="https://smartdev.com.au" target="_blank" rel="noopener noreferrer">SMARTDEV</a> showcasing my current projects and custom software solutions<br/>
+<p>👋 Hi, I’m <strong>Franco</strong> — a full-stack software developer who enjoys designing and building great applications.</p>
+
+<p>💼 Currently working full-time at 
+<a href="https://www.propertyme.com.au" target="_blank" rel="noopener noreferrer">PropertyMe</a>.</p>
+
+<p>💡 Experienced across modern web technologies, cloud platforms, and database systems.</p>
+
+<p>❤️ I enjoy being involved in the entire application lifecycle — from architecture and implementation to CI/CD.</p>
+
+<p>🚀 Explore my projects at 
+<a href="https://smartdev.com.au" target="_blank" rel="noopener noreferrer">SMARTDEV</a>.</p>
+
 
 <!---
 Franco-Diaz-Licham/Franco-Diaz-Licham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
